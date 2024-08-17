@@ -6,7 +6,7 @@ O repositório serve para demonstrar minhas habilidades em análise de dados, Po
 ## Visão Geral
 
 Para empresas baseadas em assinaturas, reduzir o churn de clientes é uma prioridade.
-Neste projeto em Power BI, investigo um conjunto de dados de uma empresa de telecomunicações fictícia chamada Databel e analiso suas taxas de desligamento.
+Neste repositório de Power BI, investigo um conjunto de dados de empresas fictícias e analiso suas taxas de desligamento.
 
 ## Objetivo
 
