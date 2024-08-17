@@ -1,0 +1,12 @@
+Número de clientes = Contagem de ID de clientes
+Número de clientes únicos = Contagem de ID de clientes distintos
+Desligado = (coluna) Rótulo Churn convertido para 0 e 1
+Número de clientes desligados = Soma da coluna Desligado
+Taxa de Desligamento = Número de Clientes Desligados / Número de Clientes
+Idade (bins) = Coluna Idade agrupada em margens de Idade
+Categoria do Contrato = (coluna) Subcategoria de Tipo de Contrato (apenas Anual ou Mensal)
+Demografia = (coluna) Junta informações de Sênior e Abaixo de 30
+Consumo Agrupado = (coluna) Categoriza Download Mensal Médio GB
+Média de Chamadas de Atendimento aos Clientes = Média total de chamadas (Soma de Ligações/Clientes)
+Média de Cobranças Extras Dados = Média total de cobranças de dados (Soma de Dados Extras/Clientes)
+Média de Cobranças Extras Internacionais = Média total de cobranças de dados internacionais (Soma de Dados Extras Internacionais/Clientes)

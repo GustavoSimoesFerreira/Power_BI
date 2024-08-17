@@ -1,0 +1,12 @@
+Análise de Churn (desligamento / rotatividade):
+
+	- Clientes utilizando planos internacionais sem utilizar toda a capacidade do plano. Baixo número de ligações internacionais.
+	- O estado da Califórnia parece apresentar uma alta taxa de churn, precisaríamos de dados específicos do estado para avaliar mais detalhadamente.
+	- O atendimento ao cliente na Califórnia é muito inferior aos outros estados. É necessário verificar os canais de atendimento.
+	- Clientes com menos de 5 GB de uso de dados apresentam alta desistência quando têm um plano ilimitado de dados. Sugerir planos mais baratos a eles.
+	- Contas recentes têm muito mais chances de serem desligadas.
+	- Quanto maior a idade do usuário, maiores as chances de desligamento.
+	- Clientes em contas pessoais têm mais chances de churn. Maioria acredita que planos de concorrentes são melhores.
+	- As 3 maiores razões para churn são: Competidor com melhores equipamentos, Atendimento ao cliente ruim, Competidor com melhores ofertas.
+	- Clientes com planos mensais têm mais chances de desligamento.
+	- Pagamentos em débito automático parecem apresentar maior chances de churn no início dos planos mensais.
